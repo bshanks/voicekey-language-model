@@ -1,0 +1,8 @@
+These are files used to produce the language model used by https://github.com/bshanks/voicekey
+
+See also:
+* https://github.com/bshanks/voicekey-language-model/releases/download/v0.01/corpus_from_usage.arpa (or whatever the latest version is; see https://github.com/bshanks/voicekey-language-model/releases/ )
+* https://sourceforge.net/projects/voicekey/files/
+* https://github.com/bshanks/voicekey
+* https://github.com/bshanks/language-model-scripts
+
